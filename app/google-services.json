@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "302358297281",
+    "firebase_url": "https://navupload-8b2c0.firebaseio.com",
+    "project_id": "navupload-8b2c0",
+    "storage_bucket": "navupload-8b2c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302358297281:android:3c0534ec4fa04d34",
+        "android_client_info": {
+          "package_name": "com.fastcsu.fastcampusnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302358297281-mcdjreahmf07och51738mfe3puj0pse5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPcu_ySkZscpwgf6EEkjSgksUYNNykFO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

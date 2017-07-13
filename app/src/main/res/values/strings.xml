@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FASTCampusNavigation</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter an email address and password!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_item">Select floor plans from photo album</string>
+    <string name="action_logout">Logout</string>
+    <string name="building_initials">Building Initials</string>
+    <string name="enter_floor_number">Enter Floor Number</string>
+    <string-array name="csu_buildings">
+        <item>AA</item>
+        <item>AC</item>
+        <item>AT</item>
+        <item>AG</item>
+        <item>BU</item>
+        <item>CS</item>
+        <item>CE</item>
+        <item>EC</item>
+        <item>FH</item>
+        <item>FT</item>
+        <item>HS</item>
+        <item>IM</item>
+        <item>JH</item>
+        <item>LB</item>
+        <item>LL</item>
+        <item>CM</item>
+        <item>MC</item>
+        <item>MM</item>
+        <item>MB</item>
+        <item>MU</item>
+        <item>PH</item>
+        <item>EC</item>
+        <item>PE</item>
+        <item>PA</item>
+        <item>PS</item>
+        <item>RC</item>
+        <item>RT</item>
+        <item>RW</item>
+        <item>SI</item>
+        <item>SR</item>
+        <item>SC</item>
+        <item>TD</item>
+        <item>UN</item>
+        <item>EC</item>
+        <item>UR</item>
+        <item>WA</item>
+        <item>WO</item>
+        <item>WP</item>
+    </string-array>
+</resources>
